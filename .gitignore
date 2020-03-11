@@ -2,4 +2,5 @@ logs/*
 .idea/*
 __pycache__/*
 venv/*
+tfnsw_venv/*
 *.pyc
